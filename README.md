@@ -1,8 +1,8 @@
 # Web Scraping Project (BeautifulSoup & Python)****
 
-## BEGINNER PROJECT IDEAS
+## [BEGINNER PROJECT](https://github.com/NazaNEYn/Web-scraping-Real-Python-Fake-Jobs/tree/main/Beginner%20Projects)
 
-1.  **Job Scraper (basic)**
+1.  **[Job Scraper (basic)](https://github.com/NazaNEYn/Web-scraping-Real-Python-Fake-Jobs/tree/main/Beginner%20Projects/01%20-%20Job%20Scraper)**
     * **Scrape:** job title, company, location, job description (on detail page).
     * **Export to:** CSV, JSON.
     * **This teaches:**
@@ -40,7 +40,7 @@
 
 ---
 
-## INTERMEDIATE PROJECT IDEAS
+## INTERMEDIATE PROJECTS
 
 4.  **Jobs by Location Map**
     * Scrape all job locations → generate a frequency map.
@@ -83,7 +83,7 @@
 
 ---
 
-## ADVANCED PROJECT IDEAS
+## ADVANCED PROJECTS
 
 7.  **Build a mini Job Recommendation Engine**
     * **Steps:**
@@ -125,7 +125,7 @@
 
 ---
 
-## PORTFOLIO-WORTHY PROJECT IDEAS
+## PORTFOLIO-WORTHY PROJECTS
 
 10. **Automated Job Analytics Dashboard**
     * Make a dashboard (Streamlit):
