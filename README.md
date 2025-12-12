@@ -17,8 +17,7 @@
         * ✔ basic CLI tools
     * **Output example:**
         ```
-        Software Engineer — Example Corp — Remote
-        Python Developer — WorkHub — Boston
+        ['Lauraton, AP']
         ```
 
 3.  **Count jobs by company**
