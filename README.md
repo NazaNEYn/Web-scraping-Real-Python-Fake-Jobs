@@ -1,4 +1,4 @@
-# Web Scraping Project (BeautifulSoup & Python)****
+# Web Scraping Projects
 
 ## [BEGINNER PROJECT](https://github.com/NazaNEYn/Web-scraping-Real-Python-Fake-Jobs/tree/main/Beginner%20Projects)
 
