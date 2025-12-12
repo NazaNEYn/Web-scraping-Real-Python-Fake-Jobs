@@ -20,7 +20,7 @@
         ['Lauraton, AP']
         ```
 
-3.  **Count jobs by company**
+3.  **[Count jobs](https://github.com/NazaNEYn/Web-scraping-Real-Python-Fake-Jobs/blob/main/Beginner%20Projects/Count%20jobs/main.py)**
     * **Generate:**
         ```
         Company A — 12 jobs
