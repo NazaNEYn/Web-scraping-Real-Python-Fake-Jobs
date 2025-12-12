@@ -8,14 +8,8 @@
     * **This teaches:**
         * ✔ `.find_all()`
         * ✔ CSS selectors
-        * ✔ Pagination
-        * ✔ Following links to detail pages
 
-2.  **Search by keyword (CLI)**
-    * User types:
-        ```bash
-        python jobs.py "python"
-        ```
+2.  **[Search by keyword (CLI)](https://github.com/NazaNEYn/Web-scraping-Real-Python-Fake-Jobs/tree/main/Beginner%20Projects/02%20-%20Job%20Scraper%20(Search%20by%20keyword))**
     * The script displays all jobs with "python" in the title.
     * **You learn:**
         * ✔ filtering
